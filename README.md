@@ -1,4 +1,4 @@
-## WhatsApp Messaging wrapper for python.
+## WhatsApp Messager wrapper for python
 
 ### Requirements:
 - Python 3
